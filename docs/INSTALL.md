@@ -22,9 +22,6 @@ Hosting Rails applications is complicated. Even if you already have Postgres, Re
 - [Redis 2.6+](http://redis.io/download)
 - [Ruby 2.0+](http://www.ruby-lang.org/en/downloads/) (we recommend 2.0.0-p353 or higher)
 
-## Security
 
-
-[basic]: https://github.com/discourse/discourse/blob/master/docs/INSTALL-cloud.md
-[advanced]: https://github.com/discourse/discourse_docker
+[basic]: https://github.com/keerthidec14/vtuforum/blob/master/docs/INSTALL-cloud.md
 [swap]: https://meta.discourse.org/t/create-a-swapfile-for-your-linux-server/13880
