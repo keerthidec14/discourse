@@ -3,8 +3,6 @@
 Simple 30 minute basic install:
 [**Beginner Docker install guide**][basic]
 
-Powerful, flexible, large or multiple server install:
-[**Advanced Docker install guide**][advanced]
 
 The only officially supported installs of Discourse are the [Docker](https://www.docker.io/) based beginner and advanced installs. We regret that we cannot support any other methods of installation.
 
@@ -26,7 +24,6 @@ Hosting Rails applications is complicated. Even if you already have Postgres, Re
 
 ## Security
 
-We take security very seriously at Discourse, and all our code is 100% open source and peer reviewed. Please read [our security guide](https://github.com/discourse/discourse/blob/master/docs/SECURITY.md) for an overview of security measures in Discourse.
 
 [basic]: https://github.com/discourse/discourse/blob/master/docs/INSTALL-cloud.md
 [advanced]: https://github.com/discourse/discourse_docker
