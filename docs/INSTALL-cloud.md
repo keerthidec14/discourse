@@ -173,7 +173,7 @@ Help us improve this guide! Feel free to ask about it on [meta.discourse.org][me
    [sp]: https://www.sparkpost.com/
   [ssh]: https://help.github.com/articles/generating-ssh-keys
  [meta]: https://meta.discourse.org
-   [do]: https://www.digitalocean.com/?refcode=5fa48ac82415
+   [do]: https://www.digitalocean.com/?refcode=3fda194e488d
   [jet]: https://www.mailjet.com/pricing
   [gun]: http://www.mailgun.com/
    [sg]: https://sendgrid.com/
