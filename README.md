@@ -10,7 +10,7 @@ To learn more about the philosophy and goals of the project, [visit **discourse.
 
 ## Screenshots
 
-<a href="https://bbs.boingboing.net"><img src="https://www.discourse.org/faq/14/boing-boing-discourse.png" width="720px"></a>
+<a href="http://forum.vturesultz.com/"><img src="http://vturesultz.com/forum/VTU%20Forum.jpg" width="720px"></a>
 
 
 ## Development
