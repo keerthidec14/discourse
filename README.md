@@ -1,4 +1,4 @@
-VTU Forums is built on Discource.
+[**VTU Forums**](http://forum.vturesultz.com) is built on Discource.
 
 Discourse is the 100% open source discussion platform built for the next decade of the Internet. It works as:
 
