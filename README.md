@@ -13,15 +13,6 @@ To learn more about the philosophy and goals of the project, [visit **discourse.
 <a href="http://forum.vturesultz.com/"><img src="http://vturesultz.com/forum/VTU%20Forum.jpg" width="720px"></a>
 
 
-## Development
-
-
-Before you get started, ensure you have the following minimum versions: [Ruby 2.0.0+](http://www.ruby-lang.org/en/downloads/), [PostgreSQL 9.3+](http://www.postgresql.org/download/), [Redis 2.6+](http://redis.io/download). If you're having trouble, please see our [**TROUBLESHOOTING GUIDE**](docs/TROUBLESHOOTING.md) first!
-
-## Setting up Discourse
-
-If you want to set up the forum for production use, see our [**Discourse Install Guide**](docs/INSTALL.md).
-
 
 ## Requirements
 
